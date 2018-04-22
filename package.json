@@ -1,0 +1,23 @@
+{
+  "name": "book-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diboy2/restful-services-with-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.11.2"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/diboy2/restful-services-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/diboy2/restful-services-with-nodejs#readme"
+}
